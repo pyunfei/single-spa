@@ -1,0 +1,7 @@
+.DS_Store
+node_modules
+/dist
+
+/react-chidlren/node_modules
+/vue-chidlren/node_modules
+/react-main/node_modules
